@@ -1,11 +1,10 @@
 #+TITLE:   Shaw's Wiki
 #+AUTHOR:  Yu Xiao
 #+EMAIL:   shawonline@gmail.com
-#+DATE:    2017-03-17
 #+LANGUAGE: en
 #+OPTIONS: H:4 num:nil  toc:2
 
-#+SETUPFILE: theme-readtheorg.setup
+#+SETUPFILE: theme-readtheorg-local.setup
 
 #+begin_html
 
