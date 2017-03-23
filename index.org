@@ -12,22 +12,8 @@
 #+end_html
 
 -----
+Evernote 到 DEVONthink，积累了不少的内容，但是都离我越来越远。
 
-* Beginning
-  :PROPERTIES:
-  :CATEGORY: Trial
-  :END:
+Re-Organizing.
 
-It's just a test demo.
-
-** What matters
-
-
-* Second
-
-
-* Third
-
-** Blah Blah
-
-Nothing to say.
+* Daily Check
