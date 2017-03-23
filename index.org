@@ -2,19 +2,15 @@
 #+AUTHOR:  Yu Xiao
 #+EMAIL:   shawonline@gmail.com
 #+LANGUAGE: en
-#+OPTIONS: H:4 num:nil  toc:2
-
+#+OPTIONS: H:4  toc:2
+#+HTML_HEAD:    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 #+SETUPFILE: theme-readtheorg-local.setup
 
-#+begin_html
-<link rel="shortcut icon" href="favicon.ico">
-
-
-#+end_html
-
------
+\\
+* Why
 Evernote 到 DEVONthink，积累了不少的内容，但是都离我越来越远。
 
 Re-Organizing.
+-----
 
 * Daily Check

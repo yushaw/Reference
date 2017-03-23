@@ -3,7 +3,7 @@
 @import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css);
 
 h1,h2,h3,h4,h5,h6,legend{
-    font-family:"Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif;
+    font-family:..., "Hiragino Sans GB", "Microsoft YaHei","WenQuanYi Micro Hei", sans-serif;
     font-weight:700;
     margin-top:0;
 }
@@ -62,9 +62,9 @@ body{
 #content{
     background:#fcfcfc;
     height:100%;
-    margin-left:300px;
+    margin-left:25%;
     /* margin:auto; */
-    max-width:800px;
+    max-width:1200px;
     min-height:100%;
     padding:1.618em 3.236em;
 }
@@ -771,7 +771,7 @@ hr{
     position:fixed;
     top:0;
     left:0;
-    width:300px;
+    width:25%;
     overflow-x:hidden;
     overflow-y:scroll;
     height:100%;
@@ -785,13 +785,13 @@ hr{
 
 #table-of-contents h2{
     z-index:200;
-    background-color:#2980B9;
+    background-color:#715ab1;
     text-align:center;
     padding:0.809em;
     display:block;
     color:#fcfcfc;
     font-size: 100%;
-    margin-bottom:0.809em}
+    margin-bottom:0}
 
 ul.nav li ul li {
     display: none;
@@ -873,10 +873,10 @@ footer p{
     position:fixed;
     bottom:0;
     left:0;
-    width:300px;
+    width:25%;
     color:#fcfcfc;
     background:#1f1d1d;
-    border-top:solid 10px #343131;
+    border-top:solid 0px #343131;
     font-family:"Lato","proxima-nova","Helvetica Neue",Arial,sans-serif;
     font-size: 90%;
     z-index:400;
@@ -891,7 +891,7 @@ footer p{
 #postamble .date {
     font-size: 90%;
     margin-bottom: 0px;
-    color: #27AE60;
+    color: #666666;
 }
 
 #postamble .creator,#postamble .validation {
