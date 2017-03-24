@@ -7,19 +7,23 @@
 #+SETUPFILE: theme-readtheorg-local.setup
 
 \\
-* Why
 Evernote 到 DEVONthink，积累了不少的内容，但是都离我越来越远。
 
 Re-Organizing.
------
-
+\\
 * Daily Check
+** 焦虑
 越来越焦虑。看到多于50个字的段落就会焦虑，看到长于5分钟的视频就会焦虑。信息太多，太庞杂，对时间的控制也越来越差，一直担心会错过或者遗漏。
 
-* toRead
+* 书单
 ** 偶遇
 荣格：漫画荣格、心理分析：理解与体验、荣格文集
 
 蚂蚁帝国三部曲
 ** 设计
 上海字记
+* 工具
++ VIM
+file:http://7x00hd.com1.z0.glb.clouddn.com/vi-vim-cheat-sheet.gif
++ Emacs
+
