@@ -62,7 +62,7 @@ body{
 #content{
     background:#fcfcfc;
     height:100%;
-    margin-left:25%;
+    margin-left:250px;
     /* margin:auto; */
     max-width:1200px;
     min-height:100%;
@@ -429,9 +429,9 @@ table tr:nth-child(2n) td{
     }
 
     #toggle-sidebar {
-        background-color: #2980B9;
+        background-color:#715ab1;
         display: block;
-        margin-bottom: 1.6em;
+        margin-bottom: 1em;
         padding: 0.6em;
         text-align: center;
     }
@@ -771,7 +771,7 @@ hr{
     position:fixed;
     top:0;
     left:0;
-    width:25%;
+    width:250px;
     overflow-x:hidden;
     overflow-y:scroll;
     height:100%;
@@ -873,7 +873,7 @@ footer p{
     position:fixed;
     bottom:0;
     left:0;
-    width:25%;
+    width:250px;
     color:#fcfcfc;
     background:#1f1d1d;
     border-top:solid 0px #343131;
