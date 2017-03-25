@@ -774,7 +774,7 @@ hr{
     left:0;
     width:250px;
     overflow-x:hidden;
-    overflow-y:scroll;
+    overflow-y:hidden;
     height:100%;
     background:#343131;
     z-index:200;
