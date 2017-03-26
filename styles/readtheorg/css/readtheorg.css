@@ -50,7 +50,7 @@ html{
 }
 
 body{
-    background:#edf0f2;
+    background:#f9f9f9;
     color:#404040;
     font-family:"Lato","proxima-nova","Helvetica Neue",Arial,sans-serif;
     font-weight:normal;
@@ -704,7 +704,7 @@ hr{
     border-bottom:solid 1px #404040}
 
 #table-of-contents li.current{
-    background:#e3e3e3}
+    background:#f6f6f6}
 
 #table-of-contents li.current a{
     color:gray;
@@ -756,12 +756,12 @@ hr{
     display:block;
     position:relative;
     font-size:90%;
-    color:#b3b3b3;
+    color:#666666;
     direction: ltr;
 }
 
 #table-of-contents a:hover{
-    background-color:#4e4a4a;
+    background-color:#ffffff;
     cursor:pointer}
 
 /* #text-table-of-contents { */
@@ -776,7 +776,7 @@ hr{
     overflow-x:hidden;
     overflow-y:hidden;
     height:100%;
-    background:#343131;
+    background:#f9f9f9;
     z-index:200;
     scrollbar-base-color: #1F1D1D;
     scrollbar-arrow-color: #b3b3b3;
@@ -786,11 +786,11 @@ hr{
 
 #table-of-contents h2{
     z-index:200;
-    background-color:#715ab1;
+    background-color:#f9f9f9;
     text-align:center;
     padding:0.809em;
     display:block;
-    color:#fcfcfc;
+    color:#808080;
     font-size: 100%;
     margin-bottom:0}
 
@@ -811,13 +811,13 @@ ul.nav li.active ul li ul li {
 }
 
 ul.nav li.active ul li a {
-    background-color: #E3E3E3;
+    background-color: #f4f4f4;
     color: #8099B0;
-    border-right:solid 1px #c9c9c9 !important;
+    border-right:solid 1px #f9f9f9 !important;
 }
 
 ul.nav li.active ul li.active a {
-    background-color: #C9C9C9;
+    background-color: #FBFBFB;
     color: black !important;
     font-weight: bold !important;
 }
@@ -849,7 +849,7 @@ ul.nav li ul li ul li ul li {
 }
 
 ul.nav li.active > a {
-    border-bottom:solid 1px #c9c9c9 !important; /* XXX Restrict it to 2nd level */
+    border-bottom:solid 1px #E9E9E9 !important; /* XXX Restrict it to 2nd level */
     border-right:solid 1px #c9c9c9 !important;
 }
 
@@ -875,8 +875,8 @@ footer p{
     bottom:0;
     left:0;
     width:250px;
-    color:#fcfcfc;
-    background:#1f1d1d;
+    color:#808080;
+    background:#f9f9f9;
     border-top:solid 0px #343131;
     font-family:"Lato","proxima-nova","Helvetica Neue",Arial,sans-serif;
     font-size: 90%;
@@ -892,7 +892,7 @@ footer p{
 #postamble .date {
     font-size: 90%;
     margin-bottom: 0px;
-    color: #666666;
+    color: #808080;
 }
 
 #postamble .creator,#postamble .validation {
