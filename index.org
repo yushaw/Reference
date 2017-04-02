@@ -28,9 +28,10 @@ Re-Organizing.
 ** 设计
 上海字记
 * 工具
-+ VIM
+** VIM
 file:http://7x00hd.com1.z0.glb.clouddn.com/vi-vim-cheat-sheet.gif
-+ Emacs
+** 文章
+- [[https://ryanhanwu.gitbooks.io/how-to-ask-questions-the-smart-way/][提问的智慧]]
 
 * 常备药物
 之前推上看到。
