@@ -55,6 +55,8 @@ file:http://7x00hd.com1.z0.glb.clouddn.com/vi-vim-cheat-sheet.gif
 |藿香正气水|治疗中暑|
 |苯海拉明|治疗晕车|
 * 杂项
+** 微信支付流程图
+   file:http://7x00hd.com1.z0.glb.clouddn.com/wechatpay.png
 ** 人在社会领域上观念的变化
    file:http://7x00hd.com1.z0.glb.clouddn.com/dimchgch.gif
 ** 影视作品中飞船大小对比
