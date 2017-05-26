@@ -16,10 +16,6 @@ Re-Organizing.
 越来越焦虑。看到多于50个字的段落就会焦虑，看到长于5分钟的视频就会焦虑。信息太多，太庞杂，对时间的控制也越来越差，一直担心会错过或者遗漏。
 ** 年轻
    我心态是否还和以前一样，是否已经开始排斥新的东西，是否还沉浸在旧有环境里而不再拥抱变化。
-* 产品
-** PM
-** 设计
-** 交互
 * 书单
 ** 偶遇
 荣格：漫画荣格、心理分析：理解与体验、荣格文集
@@ -61,6 +57,8 @@ file:http://7x00hd.com1.z0.glb.clouddn.com/vi-vim-cheat-sheet.gif
 |苯海拉明|治疗晕车|
 * 杂项
 ** 微信支付流程图
+   微信的流程图比支付宝的要详细多了...
+
    file:http://7x00hd.com1.z0.glb.clouddn.com/wechatpay.png
 ** 人在社会领域上观念的变化
    file:http://7x00hd.com1.z0.glb.clouddn.com/dimchgch.gif
