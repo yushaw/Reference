@@ -33,6 +33,11 @@ file:http://7x00hd.com1.z0.glb.clouddn.com/vi-vim-cheat-sheet.gif
 ** 文章
 - [[https://ryanhanwu.gitbooks.io/how-to-ask-questions-the-smart-way/][提问的智慧]]
 
+** API文档管理
+  - [[http://swagger.io/][swagger]]
+  - [[https://docsify.js.org/][docsify]]
+  - [[https://www.showdoc.cc/][showdoc]]
+
 * 常备药物
 之前推上看到。
 |药物名称 | 药效|
