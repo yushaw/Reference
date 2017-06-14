@@ -34,6 +34,9 @@ file:http://7x00hd.com1.z0.glb.clouddn.com/vi-vim-cheat-sheet.gif
   - [[https://docsify.js.org/][docsify]]
   - [[https://www.showdoc.cc/][showdoc]]
 
+* 一闪
+** LGBT
+   我只是个普通人，我没法经历所有事情，我也没法理解所有事情。唯一能做的，只是赞同我觉得正确的那部分。表达权利人人都有，但是这也不代表我完全的支持。只是被时代裹挟而已。
 * 常备药物
 之前推上看到。
 |药物名称 | 药效|
